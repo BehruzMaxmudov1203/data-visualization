@@ -73,6 +73,8 @@ Hands-on exercises are included in **Jupyter Notebooks**.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=FF6F61,61FF6F,6161FF&center=true&vCenter=true&width=900&lines=Scatter+Plot;Heatmap;Bar+%26+Line+Plots;KDE+Distribution" alt="Typing SVG" />
 </p>
 
+<p align="center"> <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="Visualization Animation"> </p>
+
 ```python
 import matplotlib.pyplot as plt
 import seaborn as sns
