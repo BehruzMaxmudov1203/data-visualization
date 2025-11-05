@@ -74,9 +74,8 @@ Hands-on exercises are included in **Jupyter Notebooks**.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="450" alt="AI Data Visualization Animation">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="450" alt="AI & Machine Learning Animation">
 </p>
-
 
 ```python
 import matplotlib.pyplot as plt
